@@ -1,0 +1,22 @@
+/* X Mayor igual x1 X Menor igual x2
+
+x1<=x AND x<= x2 DENTRO
+x2<= AND x<=x1 DENTRO
+x1<x AND x >x2 Continuar (
+x1>x AND x<x2 Continuar
+
+
+
+boolean xdins=False
+//Leer datos
+if x1<= x AND x<= x2
+ xdins=true
+else if (x2<= x AND x<=x1 
+  x dins = true
+IF ELSE IGUAL PERO AMB Y
+
+
+//idem
+
+
+(x1<= x NAD z<= x2) OR (x2<=x AND x<= x)
